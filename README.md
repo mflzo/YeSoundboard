@@ -10,3 +10,8 @@ My first order of business was to think about what kind of sounds I wanted to be
 ![Kanye](https://user-images.githubusercontent.com/98762863/162995442-17c01760-ba4f-44da-bc44-f6d3665150fa.png)
 
 After I made the app icon, I went to make the actual app. During the creation of the soundboard I followed the tutorial to the best of my abilities. With the addition of making slight tweaks to the app. After a bit I was ready to test the entire thing and the sound I played unfortunately did not work. I had the MP3 file ready and playable, but when I inserted it into the app itself, the app failed to play the sound when the connected button was clicked.
+
+The main layout for the app is designed to be simple but effective, I did this through have a color theme of about 4 colors and spreading them out through the different buttons and the letters. Below is an image of what the layout looks like now.
+
+![Screen Shot 2022-04-12 at 10 17 07 AM](https://user-images.githubusercontent.com/98762863/162996005-d2299a37-5ec9-47d9-8b5a-101e2ecc5e80.png)
+
