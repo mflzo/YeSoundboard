@@ -15,3 +15,4 @@ The main layout for the app is designed to be simple but effective, I did this t
 
 ![Screen Shot 2022-04-12 at 10 17 07 AM](https://user-images.githubusercontent.com/98762863/162996005-d2299a37-5ec9-47d9-8b5a-101e2ecc5e80.png)
 
+As of right now the app is sort of broken, the app functions as desired however when buttons are clicked a sound does not play. The solution to this problem should be fixed shortly but until then that is my app.
